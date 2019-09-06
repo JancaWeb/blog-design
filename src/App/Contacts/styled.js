@@ -16,13 +16,20 @@ export const InputWrapper = styled.div`
   flex-direction: column;
   justify-content: space-around;
   width: 40%;
+  input {
+    margin-bottom: 1rem;
+  }
+  textarea {
+    margin-bottom: 1rem;
+  }
 `;
 
 export const DescriptionWrapper = styled.div`
   text-transform: uppercase;
-  font-size: 2rem;
+  font-size: 1.5em;
   font-weight: normal;
   text-align: center;
+  width: 50%;
 `;
 
 export const Description = styled.p`

@@ -8,11 +8,9 @@ export const MainWrapper = styled.div`
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 100vh;
-  padding-top: 20rem;
   margin-left: 2rem;
   display: flex;
-  align-items: flex-start;
-  text-align: center;
+  align-items: center;
 `;
 
 export const MainTitle = styled.h1`
@@ -20,14 +18,19 @@ export const MainTitle = styled.h1`
   font-size: 3rem;
   border-bottom: 2px solid;
   width: fit-content;
-  color: #fff;
+  color: #000;
+  background-color: #fff;
+  padding: 1.5rem;
+  opacity: 0.7;
 `;
 
 export const MainTitleWrapper = styled.div`
   display: flex;
   flex-direction: column;
-  justify-content: flex-end;
+  justify-content: center;
+  align-items: center;
   margin-right: 5rem;
+  width: 100%;
 `;
 
 export const ContentWrapper = styled.div`
