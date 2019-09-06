@@ -1,6 +1,7 @@
 {
   "name": "blog-design",
   "version": "0.1.0",
+  "homepage": "https://jancaweb.github.io/blog-design/",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
