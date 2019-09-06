@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e83cbce2be367bf33ecf4aa09de17dc7",
+    "revision": "7574b9d9c7d779a3ada0fbb23645c343",
     "url": "/blog-design/index.html"
   },
   {
-    "revision": "e6f55f0d8687050c0360",
+    "revision": "667859fa6d98ef27b281",
     "url": "/blog-design/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "fcc362d6126f475b884a",
+    "revision": "abfdfce6a66eb67332b0",
     "url": "/blog-design/static/css/main.34de6062.chunk.css"
   },
   {
-    "revision": "e6f55f0d8687050c0360",
-    "url": "/blog-design/static/js/2.2df48b09.chunk.js"
+    "revision": "667859fa6d98ef27b281",
+    "url": "/blog-design/static/js/2.6a39570d.chunk.js"
   },
   {
-    "revision": "fcc362d6126f475b884a",
-    "url": "/blog-design/static/js/main.11d07dbc.chunk.js"
+    "revision": "abfdfce6a66eb67332b0",
+    "url": "/blog-design/static/js/main.4e95c46a.chunk.js"
   },
   {
     "revision": "f048da2a31b6f292ec93",
     "url": "/blog-design/static/js/runtime~main.1dd34277.js"
   },
   {
-    "revision": "a47e3deab0517b1bd80a25316784a182",
-    "url": "/blog-design/static/media/mainImage.a47e3dea.jpg"
+    "revision": "32063d5fe0312957f1774ac3ffdf9b80",
+    "url": "/blog-design/static/media/mainImage.32063d5f.jpg"
   },
   {
     "revision": "c927c434e0304275464cf137f5b47c14",
